@@ -6,6 +6,9 @@ additonal
 - https://pdollar.github.io/files/papers/DollarCVPR10pose.pdf (Cascaded Pose Regression)
 - https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf
 
+Convolutional Neural Networks:
+https://medium.com/@tuncerergin/convolutional-neural-network-convnet-yada-cnn-nedir-nasil-calisir-97a0f5d34cad
+https://rubikscode.net/2018/02/19/artificial-neural-networks-series/
 
 more medium content:
 - https://towardsdatascience.com/dont-start-your-data-science-journey-without-these-5-must-do-steps-from-a-spotify-data-scientist-c9cec11fd1b
@@ -17,3 +20,4 @@ more medium content:
 - https://towardsdatascience.com/analysis-of-the-emotion-data-a-dataset-for-emotion-recognition-tasks-6b8c9a5dfe57
 - https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff
 - https://medium.com/dair-ai/deep-learning-based-emotion-recognition-with-pytorch-and-tensorflow-61e831f72234
+- https://medium.com/@skillcate/emotion-detection-model-using-cnn-a-complete-guide-831db1421fae
